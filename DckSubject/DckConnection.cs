@@ -27,5 +27,16 @@ namespace Dck.Subject
         {
             if (_observer != null) _observers.Remove(_observer);
         }
+        
+        
+    }
+
+    public static class DckConnectionExtension
+    {
+        public static DckConnection<T> AddTo<T>(this DckConnection<T> dckConnection, ICollection<IDisposable> disposables) where T : class
+        {
+            disposables.Add(dckConnection);
+            return dckConnection;
+        }
     }
 }
