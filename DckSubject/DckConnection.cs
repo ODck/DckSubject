@@ -33,7 +33,7 @@ namespace Dck.Subject
 
     public static class DckConnectionExtension
     {
-        public static DckConnection<T> AddTo<T>(this DckConnection<T> dckConnection, ICollection<IDisposable> disposables) where T : class
+        public static DckConnection<T> AddTo<T>(this DckConnection<T> dckConnection, ICollection<IDisposable> disposables)
         {
             disposables.Add(dckConnection);
             return dckConnection;
