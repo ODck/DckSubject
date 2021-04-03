@@ -8,6 +8,7 @@
         <PackageProjectUrl>https://github.com/ODck/DckSubject</PackageProjectUrl>
         <RepositoryUrl>https://github.com/ODck/DckSubject</RepositoryUrl>
         <PackageVersion>1.0.1</PackageVersion>
+        <RootNamespace>Dck.Subject</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>

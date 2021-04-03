@@ -1,4 +1,4 @@
-using DckSubject;
+using Dck.Subject;
 using Xunit;
 
 namespace Tests

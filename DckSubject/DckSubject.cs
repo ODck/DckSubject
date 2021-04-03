@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Reactive;
 
-namespace DckSubject
+namespace Dck.Subject
 {
     public class DckSubject<T> : IObservable<T>
     {

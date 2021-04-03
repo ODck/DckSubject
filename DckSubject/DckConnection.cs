@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace DckSubject
+namespace Dck.Subject
 {
     public class DckConnection<T> : IDisposable
     {
