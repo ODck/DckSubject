@@ -4,7 +4,7 @@ using System.Reactive;
 
 namespace Dck.Subject
 {
-    public class DckSubject<T> : IObservable<T>
+    public class DckSubject<T> : IObservable<T>, IDckSubject<T>
     {
         private readonly List<IObserver<T>> _observers;
 
