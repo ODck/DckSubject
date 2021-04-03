@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\espon\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\espon\\.nuget\\packages"
+    ]
+  }
+}

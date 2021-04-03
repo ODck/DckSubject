@@ -1,0 +1,12 @@
+E:\Workspaces\csharp\DckSubject\DckSubject\bin\Debug\net5.0\DckSubject.deps.json
+E:\Workspaces\csharp\DckSubject\DckSubject\bin\Debug\net5.0\DckSubject.dll
+E:\Workspaces\csharp\DckSubject\DckSubject\bin\Debug\net5.0\ref\DckSubject.dll
+E:\Workspaces\csharp\DckSubject\DckSubject\bin\Debug\net5.0\DckSubject.pdb
+E:\Workspaces\csharp\DckSubject\DckSubject\obj\Debug\net5.0\DckSubject.csprojAssemblyReference.cache
+E:\Workspaces\csharp\DckSubject\DckSubject\obj\Debug\net5.0\DckSubject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspaces\csharp\DckSubject\DckSubject\obj\Debug\net5.0\DckSubject.AssemblyInfoInputs.cache
+E:\Workspaces\csharp\DckSubject\DckSubject\obj\Debug\net5.0\DckSubject.AssemblyInfo.cs
+E:\Workspaces\csharp\DckSubject\DckSubject\obj\Debug\net5.0\DckSubject.csproj.CoreCompileInputs.cache
+E:\Workspaces\csharp\DckSubject\DckSubject\obj\Debug\net5.0\DckSubject.dll
+E:\Workspaces\csharp\DckSubject\DckSubject\obj\Debug\net5.0\ref\DckSubject.dll
+E:\Workspaces\csharp\DckSubject\DckSubject\obj\Debug\net5.0\DckSubject.pdb
